@@ -1,6 +1,6 @@
 {
   "name": "xjs-loader",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "webpack loader for .xjs files",
   "main": "index.js",
   "directories": {
