@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/lebo/xj.git"
+    "url": "git+ssh://git@github.com/aaron-lebo/xjs-loader.git"
   },
-  "author": "",
+  "author": "Aaron Lebo",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/lebo/xj/issues"
+    "url": "https://github.com/aaron-lebo/xjs-loader/issues"
   },
-  "homepage": "https://gitlab.com/lebo/xj#README",
+  "homepage": "https://github.com/aaron-lebo/xjs-loeader#README",
   "dependencies": {
     "escodegen": "^1.8.0",
     "webpack": "^1.12.14"
