@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/aaron-lebo/xjs-loader/issues"
   },
-  "homepage": "https://github.com/aaron-lebo/xjs-loeader#README",
+  "homepage": "https://github.com/aaron-lebo/xjs-loader#README",
   "dependencies": {
     "escodegen": "^1.8.0",
     "webpack": "^1.12.14"
