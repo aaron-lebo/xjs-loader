@@ -1,7 +1,7 @@
 {
   "name": "xjs-loader",
   "version": "1.0.0",
-  "description": "**TODO: Add description**",
+  "description": "webpack loader for .xjs files",
   "main": "index.js",
   "directories": {
     "test": "test"
